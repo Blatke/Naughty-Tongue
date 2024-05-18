@@ -19,6 +19,6 @@ Go finding them in Studio by their item names.
 
 For changing the colors, use **MaterialEditor**.
 
-For animating them, enable their **FK** functions on the anim tab.
+For animating them, enable their **FK** functions on the anim tab, then rotate the FK nodes to change their poses.
 
 There are also some Blend Shapes added to these items, check and adjust their parameters on the **Blend Shapes** tab of the adv.mode of HS2PE/AIPE to morph the mesh of the tongues.
