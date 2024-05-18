@@ -22,3 +22,6 @@ For changing the colors, use **MaterialEditor**.
 For animating them, enable their **FK** functions on the anim tab, then rotate the FK nodes to change their poses.
 
 There are also some Blend Shapes added to these items, check and adjust their parameters on the **Blend Shapes** tab of the adv.mode of HS2PE/AIPE to morph the mesh of the tongues.
+
+## Related Link
+Sharp Tongue I made previously. It's longer and also with Blend Shapes in it. [Sharp Tongue](https://github.com/Blatke/Sharp-Tongue-HS2-AIS-mod)
