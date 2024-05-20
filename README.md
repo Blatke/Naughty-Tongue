@@ -1,4 +1,4 @@
-# Naughty Tongue
+# Naughty Tongues
 A HS2/AIS mod including two studio items, namely:
 
 **1. Naughty Tongue 1**
