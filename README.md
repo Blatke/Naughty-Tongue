@@ -20,7 +20,7 @@ Install them by dragging and dropping the mod file into the **/mods/** folder or
 ## How to Use Them
 Go finding them in Studio by their item names. Add the tongue into the scene, parent it to your character's mouth and set the tongue's position to 0,0,0. Then, the tongue goes near by the chara's mouth, and you just need a little further adjustment in its position.
 
-Also, you can disable the original tongue of the chara to let there not be two tongues clipping in the mouth. Select the chara, open **MaterialEditor**, and find and toggle the renderer of **o_tang** to **OFF**.
+Also, you can disable the original tongue of the chara to let there not be two tongues crowded in the mouth. Select the chara, open **MaterialEditor**, and find and toggle the renderer of **o_tang** to **OFF**.
 ![AI_2024-05-21-04-33-46-854](https://github.com/Blatke/Naughty-Tongue/assets/125734582/dc6c0c08-b5b5-46cd-a493-862000774055)
 
 
