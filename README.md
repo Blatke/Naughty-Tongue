@@ -24,7 +24,7 @@ Also, you can disable the original tongue of the chara to let there not be two t
 ![AI_2024-05-21-04-33-46-854](https://github.com/Blatke/Naughty-Tongue/assets/125734582/dc6c0c08-b5b5-46cd-a493-862000774055)
 
 
-For changing the colors, select the tongue and use **MaterialEditor**.
+For changing the base color and the strength of bump (normal map), select the tongue and use **MaterialEditor**.
 
 For animating them, enable their **FK** functions on the anim tab, then rotate the FK nodes to change their poses.
 
